@@ -1,1 +1,8 @@
-My Perosonal REACT Projects.In this REPO I build some simple apps using react and postgre sql as backend .
+My Personal  Projects.
+
+Techstack Used 👇
+
+React:Frontend
+Node:Backend
+PostgreSql:Database
+
